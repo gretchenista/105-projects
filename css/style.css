@@ -12,6 +12,7 @@ section h1 {
 	font-weight: bold;
 	color: fuchsia;
 }
+/* Header text should be twice as big as paragraph text,  */
 section p {
 	font: 16px 'Open Sans';
 }
